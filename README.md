@@ -28,6 +28,9 @@ Future improvements will focus on smart motor control and enhanced stability fea
 ![image](https://github.com/user-attachments/assets/05d5914e-670c-4751-9ac7-0e34cc592271)
 
 ## Car with charging station
+![image](https://github.com/user-attachments/assets/8096a00d-05a5-4c82-8fa4-6c7721bee505)
+
+## Car with charging station (RENDER)
 ![image](https://github.com/user-attachments/assets/24a57e5c-9c75-4d84-a0f5-347cad3bf845)
 
 
