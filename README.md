@@ -25,6 +25,9 @@ Future improvements will focus on smart motor control and enhanced stability fea
 ![image](https://github.com/user-attachments/assets/2c2c91ff-6a4a-4361-9cef-74173e965216)
 
 ## Steering wheel
+![image](https://github.com/user-attachments/assets/266e125c-214c-4661-be2f-1fede402c6d7)
+
+## Steering wheel internal view
 ![image](https://github.com/user-attachments/assets/05d5914e-670c-4751-9ac7-0e34cc592271)
 
 ## Car with charging station
