@@ -12,8 +12,33 @@ Future improvements will focus on smart motor control and enhanced stability fea
 ![image](https://github.com/user-attachments/assets/f38150b7-9c77-4f69-a048-2dfe445abbdd)
 
 # CAD view
+## Body base
+![image](https://github.com/user-attachments/assets/93f8b6a1-253e-4fbc-81f9-b2aac579a38f)
+
+## Coverage
+![image](https://github.com/user-attachments/assets/6c0aa803-be73-4ed2-b4a9-df7e6498c770)
+
+## Internal view
+![image](https://github.com/user-attachments/assets/d3eb2ec6-d19b-429f-a796-86b86c52518b)
+
+## Steering system
+![image](https://github.com/user-attachments/assets/2c2c91ff-6a4a-4361-9cef-74173e965216)
+
+## Steering wheel
+![image](https://github.com/user-attachments/assets/05d5914e-670c-4751-9ac7-0e34cc592271)
+
+## Car with charging station
+![image](https://github.com/user-attachments/assets/24a57e5c-9c75-4d84-a0f5-347cad3bf845)
+
 
 # Block diagram
 ![image](https://github.com/user-attachments/assets/24961266-67ca-4d24-9576-1f86ac9fad50)
+
+# Display functions
+![image](https://github.com/user-attachments/assets/37732fca-63c4-4761-846b-8e509b9b5751)
+![image](https://github.com/user-attachments/assets/58743201-4ade-4a29-b34e-3736632b1ab2)
+
+# Steering wheel functions
+![image](https://github.com/user-attachments/assets/ec3b96d5-747e-42eb-bc73-41369fe5e420)
 
 # Demo video
