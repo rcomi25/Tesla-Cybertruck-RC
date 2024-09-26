@@ -8,8 +8,12 @@ An Arduino Giga R1 oversees the smart charging system, allowing users to choose 
 So far, the project has reached a functional stage, with successful implementation of the 3D printing and essential programming. Testing has shown promising results in speed and stability, with communication extending up to 200m. 
 Future improvements will focus on smart motor control and enhanced stability features.
 
+# CFD simulation
+![image](https://github.com/user-attachments/assets/f38150b7-9c77-4f69-a048-2dfe445abbdd)
+
 # CAD view
 
 # Block diagram
+![image](https://github.com/user-attachments/assets/24961266-67ca-4d24-9576-1f86ac9fad50)
 
 # Demo video
