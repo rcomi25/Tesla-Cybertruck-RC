@@ -41,4 +41,14 @@ Future improvements will focus on smart motor control and enhanced stability fea
 # Steering wheel functions
 ![image](https://github.com/user-attachments/assets/ec3b96d5-747e-42eb-bc73-41369fe5e420)
 
+# Pictures
+![image](https://github.com/user-attachments/assets/9e6787d7-70be-4250-920a-6dccedbcb69b)
+![image](https://github.com/user-attachments/assets/dbfe4920-4f43-440f-b62a-bd5eeca086ac)
+![image](https://github.com/user-attachments/assets/3a157aa7-b5bb-4132-8214-64b8828762a4)
+
 # Demo video
+https://github.com/user-attachments/assets/bf3355c1-8c83-41f1-990b-77be8083bd1d
+https://github.com/user-attachments/assets/b237a7df-3bc4-424e-ae56-2ba1284a5e7f
+
+
+
