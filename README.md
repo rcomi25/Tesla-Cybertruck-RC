@@ -48,9 +48,6 @@ Future improvements will focus on smart motor control and enhanced stability fea
 
 # Demo video
 https://github.com/user-attachments/assets/165a9261-d80f-4ecc-b4b2-d489e3054828
-
-
-
 https://github.com/user-attachments/assets/cf03518d-6061-41ed-a8ee-916d5cae0c73
 
 
