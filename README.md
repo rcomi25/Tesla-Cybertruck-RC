@@ -15,7 +15,7 @@ Future improvements will focus on smart motor control and enhanced stability fea
 ## Body base
 ![image](https://github.com/user-attachments/assets/93f8b6a1-253e-4fbc-81f9-b2aac579a38f)
 
-## Coverage
+## Housing
 ![image](https://github.com/user-attachments/assets/6c0aa803-be73-4ed2-b4a9-df7e6498c770)
 
 ## Internal view
